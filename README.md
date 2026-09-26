@@ -38,6 +38,5 @@ clear limitations. Portfolio models should support learning and decision analysi
 without being presented as validated operational or actuarial systems before the
 evidence exists.
 
-🌐 [Portfolio website](https://sitora77.github.io)  
+🌐 [Portfolio website](https://sitorastudio.com)  
 💻 [GitHub projects](https://github.com/sitora77?tab=repositories)
-
