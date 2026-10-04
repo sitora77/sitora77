@@ -22,6 +22,8 @@ prototype.
 - Exact sampled allocation; OR-Tools additive-tail baseline
 - Four-policy held-out synthetic evaluation, seed stability and uncertainty intervals
 - Official monthly vessel-arrival data from Singapore's MPA
+- Real IMF PortWatch daily call forecasting: 1,096 observed days, chronological method selection and 366 final test days
+- Source-response checksums, daily/monthly error diagnostics and offline reproduction
 - Singapore 2024 public-event case with constructed replenishment and working-capital economics
 - Interactive browser calculator and 27 deterministic sensitivity settings
 - Funding, availability and contribution screening with explicit no-eligible outcomes
@@ -47,12 +49,15 @@ without being presented as validated operational or actuarial systems before the
 evidence exists.
 
 HarborShield was developed with AI-assisted coding and documentation. Its
-experiments check decisions under transparent synthetic assumptions—not
-validated real-world insurance pricing or independently authored code.
+decision experiments use transparent synthetic assumptions. A separate real
+PortWatch backtest evaluates port-activity forecasts only—not real-world
+insurance pricing, measured delay or independently authored code.
 The business case uses constructed orders and quotes, not confidential company
 data. No enterprise deployment, bank integration or legally effective eBL is claimed.
 
 🧮 [English interactive business case](https://sitorastudio.com/case-study-en.html) · [中文](https://sitorastudio.com/case-study.html)
+
+📊 [Real-data forecast evidence](https://sitorastudio.com/real-data-en.html) · [中文](https://sitorastudio.com/real-data.html)
 
 📝 [English project brief](https://github.com/sitora77/harborshield/blob/main/docs/PROJECT_BRIEF_EN.md)
 
