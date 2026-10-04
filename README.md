@@ -24,7 +24,10 @@ prototype.
 - Official monthly vessel-arrival data from Singapore's MPA
 - Singapore 2024 public-event case with constructed replenishment and working-capital economics
 - Interactive browser calculator and 27 deterministic sensitivity settings
+- Funding, availability and contribution screening with explicit no-eligible outcomes
+- English/Chinese case pages with shared calculations and input-preserving switching
 - Structured trade-document consistency and Ed25519 tamper/issuer-key demonstrations
+- Current-order document generation with input digest and checked-bundle DEMO signing
 - Explicit separation of public, simulated, and planned data
 
 ## What I am learning
@@ -49,7 +52,9 @@ validated real-world insurance pricing or independently authored code.
 The business case uses constructed orders and quotes, not confidential company
 data. No enterprise deployment, bank integration or legally effective eBL is claimed.
 
-🧮 [Interactive business case](https://sitorastudio.com/case-study.html)
+🧮 [English interactive business case](https://sitorastudio.com/case-study-en.html) · [中文](https://sitorastudio.com/case-study.html)
+
+📝 [English project brief](https://github.com/sitora77/harborshield/blob/main/docs/PROJECT_BRIEF_EN.md)
 
 📄 [Reproducible experiment report](https://github.com/sitora77/harborshield/blob/main/docs/EXPERIMENT_REPORT.md)
 
