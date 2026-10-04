@@ -22,6 +22,9 @@ prototype.
 - Exact sampled allocation; OR-Tools additive-tail baseline
 - Four-policy held-out synthetic evaluation, seed stability and uncertainty intervals
 - Official monthly vessel-arrival data from Singapore's MPA
+- Singapore 2024 public-event case with constructed replenishment and working-capital economics
+- Interactive browser calculator and 27 deterministic sensitivity settings
+- Structured trade-document consistency and Ed25519 tamper/issuer-key demonstrations
 - Explicit separation of public, simulated, and planned data
 
 ## What I am learning
@@ -31,6 +34,7 @@ prototype.
 - Maritime and port digitalisation
 - Supply-chain risk and resilience
 - Multimodal and intelligent transportation systems
+- Working capital and digital trade-document integrity
 
 ## Research approach
 
@@ -42,6 +46,10 @@ evidence exists.
 HarborShield was developed with AI-assisted coding and documentation. Its
 experiments check decisions under transparent synthetic assumptions—not
 validated real-world insurance pricing or independently authored code.
+The business case uses constructed orders and quotes, not confidential company
+data. No enterprise deployment, bank integration or legally effective eBL is claimed.
+
+🧮 [Interactive business case](https://sitorastudio.com/case-study.html)
 
 📄 [Reproducible experiment report](https://github.com/sitora77/harborshield/blob/main/docs/EXPERIMENT_REPORT.md)
 
